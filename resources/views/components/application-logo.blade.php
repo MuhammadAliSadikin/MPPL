@@ -1,0 +1,1 @@
+<img src="{{ asset('image/Logo Badan Pusat Statistik.png') }}" alt="Logo Perusahaan" {{ $attributes }}>
